@@ -1,4 +1,4 @@
-package com.example.examplemod;
+package com.ashwake.armourweapons;
 
 import java.util.List;
 import java.util.Set;
@@ -12,7 +12,7 @@ import net.neoforged.fml.common.EventBusSubscriber;
 import net.neoforged.fml.event.config.ModConfigEvent;
 import net.neoforged.neoforge.common.ModConfigSpec;
 
-// An example config class. This is not required, but it's a good idea to have one to keep your config organized.
+// Config for mod settings. This is not required, but it's a good idea to keep settings organized.
 // Demonstrates how to use Neo's config APIs
 public class Config {
     private static final ModConfigSpec.Builder BUILDER = new ModConfigSpec.Builder();

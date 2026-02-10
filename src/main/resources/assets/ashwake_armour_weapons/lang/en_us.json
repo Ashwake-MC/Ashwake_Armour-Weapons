@@ -1,0 +1,13 @@
+{
+  "itemGroup.ashwake_armour_weapons": "Ashwake Armour & Weapons",
+  "block.ashwake_armour_weapons.ashwake_block": "Ashwake Block",
+  "item.ashwake_armour_weapons.ashwake_item": "Ashwake Item",
+
+  "ashwake_armour_weapons.configuration.title": "Ashwake Armour & Weapons Configs",
+  "ashwake_armour_weapons.configuration.section.ashwake_armour_weapons.common.toml": "Ashwake Armour & Weapons Configs",
+  "ashwake_armour_weapons.configuration.section.ashwake_armour_weapons.common.toml.title": "Ashwake Armour & Weapons Configs",
+  "ashwake_armour_weapons.configuration.items": "Item List",
+  "ashwake_armour_weapons.configuration.logDirtBlock": "Log Dirt Block",
+  "ashwake_armour_weapons.configuration.magicNumberIntroduction": "Magic Number Text",
+  "ashwake_armour_weapons.configuration.magicNumber": "Magic Number"
+}
