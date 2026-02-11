@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "E": "ashwake_armour_weapons:iron_elytra",
+    "G": "minecraft:gold_ingot",
+    "S": "minecraft:string"
+  },
+  "pattern": [
+    "G G",
+    "GEG",
+    " S "
+  ],
+  "result": {
+    "count": 1,
+    "id": "ashwake_armour_weapons:golden_elytra"
+  }
+}

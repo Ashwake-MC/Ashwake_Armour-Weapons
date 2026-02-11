@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": "minecraft:stick",
+    "S": "minecraft:string",
+    "X": "minecraft:gold_ingot"
+  },
+  "pattern": [
+    " X ",
+    "XS ",
+    " # "
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:golden_sword"
+  }
+}

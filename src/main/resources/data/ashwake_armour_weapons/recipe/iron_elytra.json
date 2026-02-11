@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "I": "minecraft:iron_ingot",
+    "S": "minecraft:string",
+    "W": "ashwake_armour_weapons:wooden_elytra"
+  },
+  "pattern": [
+    "I I",
+    "IWI",
+    " S "
+  ],
+  "result": {
+    "count": 1,
+    "id": "ashwake_armour_weapons:iron_elytra"
+  }
+}

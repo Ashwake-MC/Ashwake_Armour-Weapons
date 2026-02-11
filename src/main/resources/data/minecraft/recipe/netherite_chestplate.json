@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "S": "minecraft:string",
+    "X": "minecraft:netherite_ingot"
+  },
+  "pattern": [
+    "XSX",
+    "XXX",
+    "XSX"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:netherite_chestplate"
+  }
+}

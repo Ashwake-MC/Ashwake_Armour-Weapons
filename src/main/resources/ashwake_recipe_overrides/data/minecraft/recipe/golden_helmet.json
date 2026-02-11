@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "S": "minecraft:string",
+    "X": "minecraft:gold_ingot"
+  },
+  "pattern": [
+    "XSX",
+    "X X",
+    " S "
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:golden_helmet"
+  }
+}

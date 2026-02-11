@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "E": "minecraft:elytra",
+    "N": "minecraft:netherite_ingot",
+    "S": "minecraft:string"
+  },
+  "pattern": [
+    "N N",
+    "NEN",
+    " S "
+  ],
+  "result": {
+    "count": 1,
+    "id": "ashwake_armour_weapons:netherite_elytra"
+  }
+}

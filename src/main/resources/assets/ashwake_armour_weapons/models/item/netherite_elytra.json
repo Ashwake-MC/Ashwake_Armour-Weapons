@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "ashwake_armour_weapons:item/netherite_elytra"
+  }
+}

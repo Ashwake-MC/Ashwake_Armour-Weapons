@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "S": "minecraft:string",
+    "X": "#minecraft:wooden_tool_materials"
+  },
+  "pattern": [
+    "X X",
+    "XSX",
+    "X X"
+  ],
+  "result": {
+    "count": 1,
+    "id": "ashwake_armour_weapons:wooden_elytra"
+  }
+}

@@ -1,13 +1,30 @@
 {
   "itemGroup.ashwake_armour_weapons": "Ashwake Armour & Weapons",
   "block.ashwake_armour_weapons.ashwake_block": "Ashwake Block",
-  "item.ashwake_armour_weapons.ashwake_item": "Ashwake Item",
-
+  "item.ashwake_armour_weapons.wooden_elytra": "Wooden Elytra",
+  "item.ashwake_armour_weapons.iron_elytra": "Iron Elytra",
+  "item.ashwake_armour_weapons.golden_elytra": "Golden Elytra",
+  "item.ashwake_armour_weapons.netherite_elytra": "Netherite Elytra",
   "ashwake_armour_weapons.configuration.title": "Ashwake Armour & Weapons Configs",
   "ashwake_armour_weapons.configuration.section.ashwake_armour_weapons.common.toml": "Ashwake Armour & Weapons Configs",
   "ashwake_armour_weapons.configuration.section.ashwake_armour_weapons.common.toml.title": "Ashwake Armour & Weapons Configs",
   "ashwake_armour_weapons.configuration.items": "Item List",
   "ashwake_armour_weapons.configuration.logDirtBlock": "Log Dirt Block",
   "ashwake_armour_weapons.configuration.magicNumberIntroduction": "Magic Number Text",
-  "ashwake_armour_weapons.configuration.magicNumber": "Magic Number"
+  "ashwake_armour_weapons.configuration.magicNumber": "Magic Number",
+  "tooltip.ashwake_armour_weapons.wooden_age": "Wooden Age",
+  "tooltip.ashwake_armour_weapons.diamond_age": "Diamond Age",
+  "tooltip.ashwake_armour_weapons.netherite_age": "Netherite Age",
+  "tooltip.ashwake_armour_weapons.iron_age": "Iron Age",
+  "tooltip.ashwake_armour_weapons.stone_age": "Stone Age",
+  "tooltip.ashwake_armour_weapons.wooden_elytra.glide": "Glide while falling",
+  "tooltip.ashwake_armour_weapons.wooden_elytra.double_jump": "Double jump for safer landings",
+  "tooltip.ashwake_armour_weapons.iron_elytra.glide": "Stable glide while falling",
+  "tooltip.ashwake_armour_weapons.iron_elytra.double_jump": "Reliable double jump",
+  "tooltip.ashwake_armour_weapons.golden_elytra.glide": "Smooth glide while falling",
+  "tooltip.ashwake_armour_weapons.golden_elytra.double_jump": "Strong double jump",
+  "tooltip.ashwake_armour_weapons.netherite_elytra.glide": "Fierce glide while falling",
+  "tooltip.ashwake_armour_weapons.netherite_elytra.double_jump": "Powerful double jump",
+  "tooltip.ashwake_armour_weapons.stone_spear.weight": "Heavier throw, better reach",
+  "tooltip.ashwake_armour_weapons.golden_age": "Golden Age"
 }
